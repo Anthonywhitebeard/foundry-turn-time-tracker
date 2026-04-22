@@ -1,0 +1,8 @@
+{
+  "CTT.Settings.ShowNPCs.Name": "Show NPC timers",
+  "CTT.Settings.ShowNPCs.Hint": "Show timers for NPC combatants as well as player-owned combatants.",
+  "CTT.Settings.ShowOnlyOwnedToPlayers.Name": "Players see only owned tokens",
+  "CTT.Settings.ShowOnlyOwnedToPlayers.Hint": "When enabled, non-GM users only see timers for actors they own.",
+  "CTT.Timer.Current": "Turn",
+  "CTT.Timer.Total": "Total"
+}

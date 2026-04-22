@@ -1,0 +1,8 @@
+{
+  "CTT.Settings.ShowNPCs.Name": "Показывать таймеры NPC",
+  "CTT.Settings.ShowNPCs.Hint": "Показывать таймеры для NPC-участников боя вместе с персонажами игроков.",
+  "CTT.Settings.ShowOnlyOwnedToPlayers.Name": "Игроки видят только свои токены",
+  "CTT.Settings.ShowOnlyOwnedToPlayers.Hint": "Если включено, обычные игроки видят таймеры только у актёров, которыми владеют.",
+  "CTT.Timer.Current": "Ход",
+  "CTT.Timer.Total": "Всего"
+}
