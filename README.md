@@ -1,5 +1,9 @@
 # Turn Time Tracker
 
+## Example:
+<img width="432" height="359" alt="image" src="https://github.com/user-attachments/assets/e477c2b3-227c-4a6d-9c24-ab96f42de966" />
+
+
 Foundry VTT v14 module for D&D5e combat. It shows two timers beside combatants in the Combat Tracker:
 
 - **Turn**: time spent on the current turn. It resets when the active combatant changes.
